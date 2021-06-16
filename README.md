@@ -1,2 +1,2 @@
 # artigo
-artigo feito como trabalho de graduação
+Artigo feito como trabalho de graduação da faculdade de Fatec Franca 
